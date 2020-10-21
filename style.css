@@ -1,0 +1,27 @@
+html {
+    /* justify-items: center; */
+    border: 2px red solid;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    border: 2px blue solid;
+    height: 100%;
+
+}
+
+img {
+    display: block;
+    justify-items: center;
+    width: 300px;
+    height: auto;
+    border: 3px black solid;
+}
+
+input {
+    border: 2px black solid;
+}
